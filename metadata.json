@@ -1,0 +1,12 @@
+{
+  "name": "Universal Health Companion (UHC)",
+  "short_name": "UHC Companion",
+  "description": "A multilingual, voice-enabled AI health assistant for underserved and low-literacy communities. Provides simplified medical explanations, medication reminders, and support tools for community health workers.",
+
+  "requestFramePermissions": ["microphone"],
+  "categories": ["health", "education", "accessibility"],
+
+  "language_support": "multilingual",
+  "version": "1.0.0",
+  "author": "Universal Health Companion Project"
+}
